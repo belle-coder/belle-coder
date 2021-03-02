@@ -13,6 +13,6 @@ I'm a 2nd year undergraduate student in computer science at Concordia University
 - 🤔 I’m looking for ideas and inspirations
 - 💬 Feel Free to follow me on twitter and linkedin
 - 📫 You can also see my profile on devpost: https://devpost.com/belle-coder?
-- 😄 Pronouns: her/her/she 
+- 😄 Pronouns: her/hers/she 
 
 <!-- ⚡ Fun fact: -->
