@@ -4,7 +4,7 @@
 <!--**belle-coder/belle-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!--Here are some ideas to get you started:-->
-I'm a 2nd year undergraduate student in computer science at Concordia University in Montreal.
+I'm a computer science graduate from Concordia University in Montreal.
 
 - 🔭 I’m currently working on developing my programming skills and deepen my knowledge in various languages and programming paradigms
 - 🌱 I’m currently learning : React framework. Python. 
