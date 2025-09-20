@@ -12,6 +12,5 @@ I'm a computer science graduate from Concordia University in Montreal.
 - 🤔 I’m looking for ideas and inspirations
 <!-- - 💬 Feel Free to follow me on twitter and linkedin-->
 <!-- - 📫 You can also see my profile on devpost: https://devpost.com/belle-coder? -->
-- 😄 Pronouns: her/hers/she 
 
-<!-- ⚡ Fun fact: -->
+<!-- ⚡ Fun fact:     -->
