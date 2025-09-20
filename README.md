@@ -13,4 +13,3 @@ I'm a computer science graduate from Concordia University in Montreal.
 <!-- - 💬 Feel Free to follow me on twitter and linkedin-->
 <!-- - 📫 You can also see my profile on devpost: https://devpost.com/belle-coder? -->
 
-<!-- ⚡ Fun fact:     -->
