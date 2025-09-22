@@ -1,15 +1,36 @@
-### Hi there 👋
+# 👋 Belle Hagan
 
+**Full-Stack Developer | Cloud Enthusiast | IT Specialist**
 
-<!--**belle-coder/belle-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+Experienced software developer with a strong foundation in full-stack engineering, cloud infrastructure, and technical support. Relocated from Quebec to North Carolina in 2024, bringing a diverse background in both industry and academia.
 
-<!--Here are some ideas to get you started:-->
-I'm a computer science graduate from Concordia University in Montreal.
+---
 
-- 🔭 I’m currently working on developing my programming skills and deepen my knowledge in various languages and programming paradigms
-- 🌱 I’m currently learning : React framework. Python. 
-- 👯 I already know: java, javascript, some php, html, CSS.
-- 🤔 I’m looking for ideas and inspirations
-<!-- - 💬 Feel Free to follow me on twitter and linkedin-->
-<!-- - 📫 You can also see my profile on devpost: https://devpost.com/belle-coder? -->
+##  Skills & Tools
+
+- **Languages:** TypeScript, Java, Python, Swift, Kotlin, SQL  
+- **Frameworks:** Angular, React, Node.js, Spring Boot, NestJS  
+- **Cloud & DevOps:** Google Cloud, Terraform, Firebase, REST APIs  
+- **Certifications:** Cisco CCNA Routing & Switching, Professional Scrum Master I (PSM I) – Scrum.org
+
+---
+
+##  Education
+
+- **B.Sc. Computer Science**, Concordia University  
+- **Diploma in Computer Technical Support**, Herzing College  
+
+---
+
+##  Career Interests
+
+Seeking roles in full-stack development, cloud engineering, or technical leadership with a focus on innovation and collaboration.
+
+---
+
+##  Contact
+
+- 📧 [bellehagan24@gmail.com](mailto:bellehagan24@gmail.com)  
+- 🌐 [LinkedIn](https://linkedin.com/in/belle-coder/)
+
 
