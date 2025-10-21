@@ -30,7 +30,7 @@ Seeking roles in full-stack development, cloud engineering, or technical leaders
 
 ##  Contact
 
-- 📧 [bellehagan24@gmail.com](mailto:bellehagan24@gmail.com)  
+- 📧 [Gmail address](mailto:bellehagan24@gmail.com)  
 - 🌐 [LinkedIn](https://linkedin.com/in/belle-coder/)
 
 
