@@ -22,12 +22,6 @@ Experienced software developer with a strong foundation in full-stack engineerin
 
 ---
 
-##  Career Interests
-
-Seeking roles in full-stack development, cloud engineering, or technical leadership with a focus on innovation and collaboration.
-
----
-
 ##  Contact
 
 - 📧 [Gmail address](mailto:bellehagan24@gmail.com)  
