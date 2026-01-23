@@ -22,9 +22,5 @@ Experienced software developer with a strong foundation in full-stack engineerin
 
 ---
 
-##  Contact
-
-- 📧 [Gmail address](mailto:bellehagan24@gmail.com)  
-- 🌐 [LinkedIn](https://linkedin.com/in/belle-coder/)
 
 
